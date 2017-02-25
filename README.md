@@ -13,7 +13,7 @@ Add more custom affects and styles.
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'KPImageView', git: 'https://github.com/khuong291/KPActionSheet'
+pod 'KPActionSheet', git: 'https://github.com/khuong291/KPActionSheet'
 ```
 
 #### Manually
@@ -23,3 +23,7 @@ pod 'KPImageView', git: 'https://github.com/khuong291/KPActionSheet'
 ## Author
 
 Khuong Pham, dkhuong291@gmail.com
+
+## License
+
+**KPActionSheet** is available under the MIT license. See the [LICENSE](https://github.com/khuong291/KPActionSheet/blob/master/LICENSE.md) file for more info.
