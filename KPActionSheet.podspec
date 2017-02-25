@@ -3,10 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0"
   s.summary      = "A replacement of default action sheet, but has very simple usage."
   s.homepage     = "https://github.com/khuong291/KPActionSheet"
-  s.license = { :type => 'MIT', :text => <<-LICENSE
-                   Copyright 2016 Khuong Pham
-                 LICENSE
-               }
+  s.license      = 'MIT'
   s.author       = { "khuong291" => "dkhuong291@gmail.com" }
   s.source       = { :git => "https://github.com/khuong291/KPActionSheet.git", :tag => s.version.to_s }
 
