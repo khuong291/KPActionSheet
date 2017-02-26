@@ -50,7 +50,7 @@ public class KPItemView: UIView {
     }
     
     private func initSubViews(item: KPItem) {
-        let nib = UINib(nibName: "CustomActionSheetItemView", bundle: nil)
+        let nib = UINib(nibName: "KPItemView", bundle: nil)
         nib.instantiate(withOwner: self, options: nil)
         
         if item.type == .Cancel {
