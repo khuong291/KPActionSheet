@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KPActionSheet"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "A replacement of default action sheet, but has very simple usage."
   s.homepage     = "https://github.com/khuong291/KPActionSheet"
   s.license      = 'MIT'
